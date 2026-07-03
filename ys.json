@@ -1,12 +1,12 @@
 {
-  "spider": ".jar/demo.jpg;md5;5dc14f5cfa13170d6d0f7d815d0c2559",
+  "spider": "./hezimi.png;md5;e2693c58ebc58abecc7282b721db79ca",
   "wallpaper": "https://xn--spsx60cgim8pd.xxooo.cf/",
   "logo": "",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/sk0yang/IPTV/refs/heads/main/TV.json",
+      "url": ".TV.json",
       "ua": "okhttp/3.15",
       "epg": "http://skyang.de5.net/epg/diyp",
       "timeout": 10,
@@ -16,28 +16,21 @@
   ],
   "sites": [
     {
-      "key": "天天",
+      "key": "潮流",
       "name": "⛅️┃天天影视",
       "type": 3,
       "quickSearch": 1,
       "searchable": 1,
       "api": "csp_AppRJ",
       "timeout": 12,
-      "ext": "vxw35/hHSj07Q+maxQzOVMq1rjRCOTXpUCx8iKu5jIg="
+      "ext": "http://v.rbotv.cn"
     },
     {
       "key": "荐片",
       "name": "🎬┃荐片影视",
-      "quickSearch": 0,
-      "changeable": "0",
-      "searchable": 1,
-      "timeout": 15,
-      "type": 3,
       "api": "csp_Jianpian",
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      },
+      "type": 3,
+      "playerType": "2",
       "ext": "https://api.ztcgi.com"
     },
     {
