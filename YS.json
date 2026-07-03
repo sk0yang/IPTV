@@ -71,7 +71,6 @@
       "key": "drpy_js_奇珍异兽",
       "name": "🥝┃爱奇艺视频",
       "type": 3,
-      "jar": "./jar/spider.jar;md5;eed040a6247f375adbff7ec181f8e0d6",
       "api": "./lib/drpy2.min.js",
       "ext": "./js/奇珍异兽.js"
     },
@@ -110,38 +109,105 @@
       "api": "csp_AppGet",
       "ext": "https://new.app.bytegooty.com|N4yj7l7xKxHF4*gz"
     },
-    {
-      "key": "Huya",
-      "name": "🎞️┃虎牙直播",
+        {
+      "key": "csp_XYQHiker_兔小贝",
+      "name": "🐰┃兔小贝",
       "type": 3,
-      "jar": "https://gitee.com/sk0yang/iptvi/raw/master/JS/jar/vip.jar;md5;a4f403a000bc5e4ebdd9da27fcb05852",
-      "api": "csp_Huya",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
+      "api": "csp_XYQHiker",
+      "jar": "./jar/spider.jar;md5;eed040a6247f375adbff7ec181f8e0d6",
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
-      "timeout": 10,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
+      "ext": "./lib/兔小贝.json"
     },
     {
-      "key": "Douyu",
-      "name": "🎮┃斗鱼直播",
+      "key": "csp_XYQHiker_兔小贝2",
+      "name": "🐰┃兔小贝2",
       "type": 3,
-      "api": "csp_Douyu",
-      "jar": "https://gitee.com/sk0yang/iptvi/raw/master/JS/jar/vip.jar;md5;a4f403a000bc5e4ebdd9da27fcb05852",
+      "api": "csp_XYQHiker",
+      "jar": "./jar/spider.jar;md5;eed040a6247f375adbff7ec181f8e0d6",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/兔小贝2.json"
+    },
+    {
+      "key": "csp_XYQHiker_播视童趣",
+      "name": "👶🏻播视童趣",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "./jar/spider.jar;md5;eed040a6247f375adbff7ec181f8e0d6",
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0,
       "filterable": 1,
-      "timeout": 10,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
+      "ext": "./lib/播视童趣.json"
     },
+   {
+      "key": "csp_XYQHiker_路漫漫",
+      "name": "路漫漫",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "./jar/spider.jar;md5;eed040a6247f375adbff7ec181f8e0d6",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/路漫漫.json"
+    },
+    {
+      "key": "csp_XYQHiker_age动漫",
+      "name": "AGE动漫",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "./jar/spider.jar;md5;eed040a6247f375adbff7ec181f8e0d6",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/age动漫.json"
+    },
+     {
+      "key": "DRJS_虎牙",
+      "name": "🐯┃虎牙直播",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "jar": "./jar/spider.jar;md5;eed040a6247f375adbff7ec181f8e0d6",
+      "ext": "./lib/虎牙直播.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "csp_XYQHiker_斗鱼直播",
+      "name": "🐠┃斗鱼直播",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "./jar/spider.jar;md5;eed040a6247f375adbff7ec181f8e0d6",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/斗鱼直播.json"
+    },
+     {
+      "key": "csp_XYQHiker_戏曲多多",
+      "name": "🎻┃戏曲多多",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "./jar/spider.jar;md5;eed040a6247f375adbff7ec181f8e0d6",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/戏曲多多.json"
+    },
+
+      {
+      "key": "csp_Djuu",
+      "name": "🎧┃DJ悠悠",
+      "type": 3,
+      "api": "csp_Djuu",
+      "jar": "./jar/spider.jar;md5;eed040a6247f375adbff7ec181f8e0d6",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1
+    }
     {
       "key": "88看球",
       "name": "⚽┃88看球",
