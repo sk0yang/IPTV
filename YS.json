@@ -73,7 +73,7 @@
       "type": 3,
       "jar": "./jar/spider.jar;md5;eed040a6247f375adbff7ec181f8e0d6",
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/奇珍异兽.js"
+      "ext": "./js/奇珍异兽.js"
     },
     {
       "key": "方舟",
