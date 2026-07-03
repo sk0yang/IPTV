@@ -197,7 +197,6 @@
       "filterable": 1,
       "ext": "./lib/戏曲多多.json"
     },
-
       {
       "key": "csp_Djuu",
       "name": "🎧┃DJ悠悠",
@@ -207,7 +206,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1
-    }
+    },
     {
       "key": "88看球",
       "name": "⚽┃88看球",
