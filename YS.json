@@ -68,13 +68,6 @@
       "ext": "https://shdy5.us"
     },
     {
-      "key": "drpy_js_奇珍异兽",
-      "name": "🥝┃爱奇艺视频",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/奇珍异兽.js"
-    },
-    {
       "key": "方舟",
       "name": "🐷┃方舟动漫",
       "type": 3,
