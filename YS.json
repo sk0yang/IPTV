@@ -118,7 +118,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/兔小贝.json"
+      "ext": "./js/兔小贝.json"
     },
     {
       "key": "csp_XYQHiker_兔小贝2",
@@ -129,7 +129,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/兔小贝2.json"
+      "ext": "./js/兔小贝2.json"
     },
     {
       "key": "csp_XYQHiker_播视童趣",
@@ -140,7 +140,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/播视童趣.json"
+      "ext": "./js/播视童趣.json"
     },
    {
       "key": "csp_XYQHiker_路漫漫",
@@ -151,7 +151,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/路漫漫.json"
+      "ext": "./js/路漫漫.json"
     },
     {
       "key": "csp_XYQHiker_age动漫",
@@ -162,7 +162,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/age动漫.json"
+      "ext": "./js/age动漫.json"
     },
      {
       "key": "DRJS_虎牙",
@@ -170,7 +170,7 @@
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "jar": "./jar/spider.jar;md5;eed040a6247f375adbff7ec181f8e0d6",
-      "ext": "./lib/虎牙直播.js",
+      "ext": "./js/虎牙直播.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1
@@ -184,7 +184,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/斗鱼直播.json"
+      "ext": "./js/斗鱼直播.json"
     },
      {
       "key": "csp_XYQHiker_戏曲多多",
@@ -195,7 +195,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/戏曲多多.json"
+      "ext": "./js/戏曲多多.json"
     },
       {
       "key": "csp_Djuu",
