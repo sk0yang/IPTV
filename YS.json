@@ -71,6 +71,7 @@
       "key": "drpy_js_奇珍异兽",
       "name": "🥝┃爱奇艺视频",
       "type": 3,
+      "jar": "./jar/spider.jar;md5;eed040a6247f375adbff7ec181f8e0d6",
       "api": "./lib/drpy2.min.js",
       "ext": "./js/奇珍异兽.js"
     },
