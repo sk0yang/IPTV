@@ -1,12 +1,12 @@
 {
-  "spider": ".jar/fish0704.jar;md5;f8ee64885b266fb64c89083a43400c37",
+  "spider": "./jar/fish0704.jar;md5;f8ee64885b266fb64c89083a43400c37",
   "wallpaper": "https://xn--spsx60cgim8pd.xxooo.cf/",
   "logo": "",
   "lives": [
     {
       "name": "live",
       "type": 0,
-      "url": ".TV.txt",
+      "url": "./TV.txt",
       "ua": "okhttp/3.15",
       "epg": "http://skyang.de5.net/epg/diyp",
       "timeout": 10,
