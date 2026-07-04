@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/fish0704.jar;md5;f8ee64885b266fb64c89083a43400c37",
+  "spider": "./jar/der.jar;md5;e049ac239245dd11ee439f109cb257b6",
   "wallpaper": "https://xn--spsx60cgim8pd.xxooo.cf/",
   "logo": "",
   "lives": [
@@ -15,15 +15,6 @@
     }
   ],
   "sites": [
-     {
-      "key": "YunDuo",
-      "name": "☁️┃云朵4K",
-      "type": 3,
-      "api": "csp_YunDuo",
-      "searchable": 1,
-      "changeable": 1,
-      "filterable": 1
-    },
     {
       "key": "热播影视",
       "name": "⛅️┃天天影视",
