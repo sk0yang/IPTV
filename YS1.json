@@ -1,5 +1,5 @@
 {
-  "spider": ".jar/der.jar;",
+  "spider": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/spider.jar;",
   "wallpaper": "https://xn--spsx60cgim8pd.xxooo.cf/",
   "logo": "",
   "lives": [
