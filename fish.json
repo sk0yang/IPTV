@@ -442,6 +442,12 @@
         "type": "rect",
         "ratio": 3.8
       }
+    },
+   {
+      "key": "FishConfig",
+      "name": "⚙┃设置中心",
+      "type": 3,
+      "api": "csp_FishConfig"
     }
   ],
   "parses": [
