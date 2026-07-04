@@ -10,7 +10,7 @@
       "ua": "okhttp/3.15",
       "epg": "http://skyang.de5.net/epg/diyp",
       "timeout": 10,
-      "logo": "https://gitee.com/sk0yang/iptvi/raw/master/pic/{name}.png",
+      "logo": "https://gh-proxy.org/https://raw.githubusercontent.com/sk0yang/IPTV/refs/heads/main/pic/{name}.png",
       "playerType": 2
     }
   ],
