@@ -5,7 +5,7 @@
   "wallpaper": "http://fmys.top/img.php",
   "sites": [
     {
-      "name": "🥑┃豆瓣影视",
+      "name": "🔍┃豆瓣影视",
       "key": "Douban",
       "type": 3,
       "api": "csp_DoubanAmns",
@@ -33,7 +33,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./lib/aowu/pj.gz"
+      "ext": "./lib/aowu/jp.gz"
     },
     {
       "name": "🫐┃360影视",
@@ -356,7 +356,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "https://nos.netease.com/youdata-netease/public-utilUpload-dETsDhhkydVym6T7qzn7WB.gz"
+      "ext": ".lib/aowu/dubi.gz"
     },
     {
       "name": "🐼┃伊外速播",
