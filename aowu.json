@@ -188,7 +188,7 @@
       "ext": "be125714a2413f05151fea6864509533510fc41478de761606ce64420a9d786d1766ef0968b7cb1b0b380f8d47aaca283235fd63fd19e6ac57a9a71acecc969aedb960608e1d3e2cbaa9365220d19d30711243c747442f77c21fb19b804bde8323048bc73a0ef5d5231c028e694e97122e1bfe3caf778c49dc767622f6c7cfbb12a8feb3154ad53971859304e2d7a50f24558396a1b0f9879420f15416fcd1a44fea822c8e63ddff22f6775663ea26e49ce810481083bfaebae58790814c6c91aedd7cf8d50237a5a22bed49bff6cbe937fc907cf5ce771643461426b40fc79aed7595a6b33e1942d6e93db30da5a10c6e9593dec0ea5cb378cd8a4d90c296b90aa9679a3a791a281abf5fef54ed0c3ba822bfb84d5a48fb97f9ceb65e5be0bd30a4604169f671c543a0d6a4154aee4de66de0baee995b3d9ebd02260d5c4032b8dc191de5e50dc10a5be44405c848e71ef2f7fac85814542927d39a3c5fea40a14e96688c9f4b6f5a62c949e69c66616e7ac0a24b02a746fe6257de3a5325af8f915dd59d3f75ee830ac427fd5c9c136d371beb2ae7233e21ebef3beb0b67d6ae3b8a4b4878da5bd88913145b4dd79754bb0fe8cb19ef8a547355c4795b0bd372296b3ae08227e3a8c8da641b2aad8a545863cbab2da7edf6c48fee21610ace6e05ca511fead0993d23a3a2e720b32fe86da616b34f94874f67bbd3d94b46b207487101453982db864b8aa24c6ff3326999cfbf6328c5ce176c1a01f16802ea4f615016c4a7c8bd401ee726d81f94ad56b9efe12c00e668dfdfc4f820347f71de5b36546b773f6717766c79a01611fe3c5427c6ac4c68f6d8e32b4a5400c4467ba7990c4738b6b021fcc04446eee3b473baa938bece5e1b3b5379eb7d5d079186cfe16ee6fe51202e5b90c18f59569a75944b2e932d68bb8cf9cab437f6176ab85c8b26eedfe59e5b6130b1aab2e49419d7ec0037fd83a5af3d7483bbe8d4e0e8d3033ec3db68a7c78f9100bffee32cb0247e8b647e94838f767f01cfee1a2b9836ac26a389e7340f584fbb0a8600c2ffea100993ae78fb92593ffc41211e0dda196d9d1450a3f22a56af9f4aab61c33dd3744e395aad6527687d0b0df5db85cadb66bc1bafc6bdbde8b640863433192bf091be8e148d421eca44aa1997ce4396965f3724cea8b45b416394ac32ad68cbcc6ad02cfa44bbabda8bad7c5daabe45eac86d0a8d2b203a1924d82fc3ea360436fda1a650e5a7cce58becff50eb2176a4dd90f58887b6fdb15398eefd8968ed2d859d9fd4c0c078522009ce90b59a84903d75a9fbb391deb0f3cab655b9d79e5f43b26323e7086090877472bdf01f580b4a5ead9c0ca008fdd8cba8d50641a6824daf8d0f4c992ca8c1b99723bd1b7a0c69432aca4e892096f1063a06b068127684b82e5a677f272dd45551c01a4c5f0a6e9b6fd26d871f9fd1045b65565a709cb0545882fcc593b885d29f47df475b8b1cf4f95ff61c31252f503924113c52fa72ea655e9245bce5e73427558c5fbf33a933c549dfdca79259fb8eb77d648c5f4813af11ef876e0fd65b16d3989f6d88da1026b0e53e1116e6243727dbd3a264c77d18ff7f194075f9d59f26e983276317f4dce4d2daa69538ac0c034f27f042a5595809f00945117562f16aec2501010d1b7f5521c264c1bddf8a150f5b8fde0aa5630665dc332ab2f3e490b01c7328693f22d98db1ff9599a44930cf14cec95490229c3cbf8eb9e4d083cb77cd50fe806fe469dcf3201822980b222d596e9ceb43375dd00ebc9721e344baf29f84b56000835a364cac6da64abf75f2f1fb890e24549b7b7d28874668b2463d2e790a6dda9a7d3ba00160296fa6f565436df4164bfa739161c8415a0b88c3da5b80f6439fb67e1d6aba0b8c1db798fe967334c574b9919727fb639d6cecb1f2a2a4d4c52fc3c9514efaae17b1d5c14ba1f52847c50025d1ea38cc2da904fb14f0690491ccaf4838e5a28c92a7536d735fa42a283373de3e7781201f9d7f198642f6356fc1d806f5ffa82dc79c114c70fef7e4cfd422c976f51168dd7633a0dadbac3270b9943c9b5254c1dac5688fe0f7213a3f"
     },
     {
-      "name": "🐱番薯|动漫",
+      "name": "🍠┃番薯动漫",
       "key": "FanShu",
       "type": 3,
       "api": "csp_FanShuAmns",
@@ -197,7 +197,7 @@
       "changeable": 0
     },
     {
-      "name": "🐱喵物|动漫",
+      "name": "🐱┃喵物动漫",
       "key": "AowuDmMw",
       "type": 3,
       "api": "csp_AowuDmAmns",
@@ -207,7 +207,7 @@
       "ext": "db8b57143fce50cabe524135fd3fb26e4af09034942cb186addd2322edf17ab6c9b7862764598039301c43cf706efcd55499494d72c680001c30550747b3dc5994760e3d6e17208e5ed771b2b4162f65e72b3e530fdd9622474e1c5f8aecda41dcd17901c7ddc61193a63fd8aaa1a96dc8673f93a8116755fd04bb1baaa93215334aaa1327972f2dd7292eb3d593e60cad0b9a3dde2a1158640cfc93dac5af45ddd8f971e3be0ccb5c776752b9b92a7f67dc89375d7ad442bddb0c661554a03c420029010a932d2dd8e65d6dc5"
     },
     {
-      "name": "🐱花海|动漫",
+      "name": "🌸┃花海动漫",
       "key": "DMhhz",
       "type": 3,
       "api": "csp_DMhhzAmns",
@@ -216,7 +216,7 @@
       "changeable": 0
     },
     {
-      "name": "🔗Gaze|2K",
+      "name": "🧩┃Gaze资源",
       "key": "Gaze",
       "type": 3,
       "api": "csp_GazeAmns",
@@ -226,17 +226,7 @@
       "ext": "https://gaze.red,https://gazes.store,https://gazes.top,https://gazes.host"
     },
     {
-      "name": "🔗哔嘀|2K",
-      "key": "Bidys",
-      "type": 3,
-      "api": "csp_BidysAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://v.xl01.eu.cc,https://xl02.com.de,https://v.xl02.eu.cc,https://v.xl01.cc.ua"
-    },
-    {
-      "name": "🔗厂长|2K",
+      "name": "🏭┃厂长影视",
       "key": "Czzy",
       "type": 3,
       "api": "csp_CzzyAmns",
@@ -249,20 +239,7 @@
       }
     },
     {
-      "name": "🔗LBV|2K",
-      "key": "Libvio",
-      "type": 3,
-      "api": "csp_LibvioAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "sites": "https://www.libvios.com,https://www.libhd.com,https://www.libvio.life",
-        "filters": ""
-      }
-    },
-    {
-      "name": "🎬嗷嗚|漫剧",
+      "name": "🎴┃百景动漫",
       "key": "MjHggg",
       "type": 3,
       "api": "csp_HgggAmns",
@@ -272,7 +249,7 @@
       "ext": "comic_series"
     },
     {
-      "name": "🎬嗷嗚|短剧",
+      "name": "🍡┃风铃短剧",
       "key": "DjHggg",
       "type": 3,
       "api": "csp_HgggAmns",
@@ -282,7 +259,7 @@
       "ext": "short_play"
     },
     {
-      "name": "🎬豪堪|短剧",
+      "name": "🦉┃豪堪短剧",
       "key": "HHkk",
       "type": 3,
       "api": "csp_HHkkAmns",
@@ -292,7 +269,7 @@
       "genre": "shortdrama"
     },
     {
-      "name": "🎬盒马|短剧",
+      "name": "🦛┃盒马短剧",
       "key": "Hema",
       "type": 3,
       "api": "csp_HemaAmns",
@@ -302,7 +279,7 @@
       "genre": "shortdrama"
     },
     {
-      "name": "🎬拜拜|短剧",
+      "name": "🐬┃拜拜短剧",
       "key": "Bddj",
       "type": 3,
       "api": "csp_BddjAmns",
@@ -312,7 +289,7 @@
       "genre": "shortdrama"
     },
     {
-      "name": "🎬围观|短剧",
+      "name": "🐺┃围观短剧",
       "key": "Wgdj",
       "type": 3,
       "api": "csp_WgdjAmns",
@@ -322,7 +299,7 @@
       "genre": "shortdrama"
     },
     {
-      "name": "🎬喵喵|短剧",
+      "name": "🐱┃喵喵短剧",
       "key": "Qmdj",
       "type": 3,
       "api": "csp_QmdjAmns",
@@ -332,7 +309,7 @@
       "genre": "shortdrama"
     },
     {
-      "name": "🎬星星|短剧",
+      "name": "🎇┃星星短剧",
       "key": "Xydj",
       "type": 3,
       "api": "csp_XydjAmns",
@@ -342,7 +319,16 @@
       "genre": "shortdrama"
     },
     {
-      "name": "🧩橘汁|快速",
+      "name": "🥇┃金牌影视",
+      "key": "JinPai",
+      "type": 3,
+      "api": "csp_JinPaiAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+     {
+      "name": "🍊┃橘汁资源",
       "key": "Woshinidie",
       "type": 3,
       "jar": "https://file.icve.com.cn/file_doc/923/89/E6C166A7F2222B95D16551FD2EACFC4E.png;md5;e6c166a7f2222b95d16551fd2eacfc4e",
@@ -363,16 +349,7 @@
       }
     },
     {
-      "name": "🧩金牌|快速",
-      "key": "JinPai",
-      "type": 3,
-      "api": "csp_JinPaiAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "🧩杜北|快速",
+      "name": "🎶┃杜比资源",
       "key": "Dubk",
       "type": 3,
       "api": "csp_DubkAmns",
@@ -382,7 +359,7 @@
       "ext": "https://nos.netease.com/youdata-netease/public-utilUpload-dETsDhhkydVym6T7qzn7WB.gz"
     },
     {
-      "name": "🧩伊外|快速",
+      "name": "🐼┃伊外速播",
       "key": "YIys",
       "type": 3,
       "api": "csp_YIysAmns",
@@ -391,7 +368,7 @@
       "changeable": 0
     },
     {
-      "name": "🧩爱看|采集",
+      "name": "❤┃爱看采集",
       "key": "AiBot",
       "type": 3,
       "api": "csp_AiBotAmns",
@@ -400,7 +377,7 @@
       "changeable": 0
     },
     {
-      "name": "🌍爱瓜|墙外",
+      "name": "🍈┃爱瓜资源",
       "key": "AiGua",
       "type": 3,
       "api": "csp_AiGuaAmns",
@@ -409,60 +386,44 @@
       "changeable": 0
     },
     {
-      "name": "🌍U视|墙外",
-      "key": "Ysp",
+      "key": "DRJS_虎牙",
+      "name": "🐯┃虎牙直播",
       "type": 3,
-      "api": "csp_YspAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/虎牙直播.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1
     },
     {
-      "name": "🌍欧乐|墙外",
-      "key": "Olyy",
+      "key": "csp_XYQHiker_斗鱼直播",
+      "name": "🐠┃斗鱼直播",
       "type": 3,
-      "api": "csp_OlyyAmns",
+      "api": "csp_XYQHiker",
+      "jar": "./jar/spider.jar;md5;eed040a6247f375adbff7ec181f8e0d6",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./js/斗鱼直播.json"
     },
     {
-      "name": "🌍壹帆|墙外",
-      "key": "Aiyf",
+      "key": "drpy_js_广播迷FM",
+      "name": "🔉┃广播迷FM",
       "type": 3,
-      "api": "csp_AiyfAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "📡Bili|Live",
-      "key": "Bilive",
-      "type": 3,
-      "api": "csp_BiliveAmns",
-      "searchable": 1,
-      "quickSearch": 1,
+      "api": "./lib/drpy2.min.js",
       "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
+      "ext": "./js/广播迷FM.js"
     },
     {
-      "name": "📡虎牙|Live",
-      "key": "HuyaLive",
+      "key": "drpy_js_蜻蜓FM",
+      "name": "📢┃蜻蜓FM",
       "type": 3,
-      "api": "csp_HuyaLiveAmns",
-      "searchable": 1,
-      "quickSearch": 1,
+      "api": "./lib/drpy2.min.js",
       "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
+      "ext": "./js/蜻蜓FM.js"
     },
     {
-      "name": "🏆瓜子|体育",
+      "name": "🏀┃瓜子体育",
       "key": "GuaziLive",
       "type": 3,
       "api": "csp_GuaziLiveAmns",
@@ -472,7 +433,7 @@
       "ext": "https://api.bmjb2mk7.com,https://api.46d5umpk.com,https://api.tkfupxqu.com,https://api.5h5hbfhh.com,https://api.qchyzkww.com,https://api.cjxxpgkq.com,https://api.zejzeu7p.com"
     },
     {
-      "name": "🏆飞球|体育",
+      "name": "🏓┃飞球体育",
       "key": "FeiqLive",
       "type": 3,
       "api": "csp_FeiqLiveAmns",
@@ -481,7 +442,7 @@
       "changeable": 0
     },
     {
-      "name": "🏆88|体育",
+      "name": "⚽┃88看球",
       "key": "BbkqLive",
       "type": 3,
       "api": "csp_BbkqLiveAmns",
@@ -491,7 +452,7 @@
       "ext": "https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw"
     },
     {
-      "name": "🏆咖啡|体育",
+      "name": "☕┃咖啡体育",
       "key": "KafLive",
       "type": 3,
       "api": "csp_KafLiveAmns",
@@ -500,127 +461,7 @@
       "changeable": 0
     },
     {
-      "name": "🎉Bili|合集",
-      "key": "BiliHeji",
-      "type": 3,
-      "api": "csp_BiliAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "home": "1",
-        "json": "https://file.icve.com.cn/file_doc/299/797/4AFC77E563EDEDB37F18BA6458610E16.aowu",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
-    },
-    {
-      "name": "🎉Bili|歌曲",
-      "key": "BiliGequ",
-      "type": 3,
-      "api": "csp_BiliAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://cdn.waimaimingtang.com/file/images/bwc/20260527100843-9aefe070b5.aowu",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
-    },
-    {
-      "name": "🎉Bili|戏曲",
-      "key": "BiliXiqu",
-      "type": 3,
-      "api": "csp_BiliAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://cdn.waimaimingtang.com/file/images/bwc/20260527100913-7601517540.aowu",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
-    },
-    {
-      "name": "📚教育|少儿",
-      "key": "BiliSer",
-      "type": 3,
-      "api": "csp_BiliAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://nos.netease.com/youdata-netease/public-utilUpload-7y79ukN4TsLcdydmg5TFRj.gz",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
-    },
-    {
-      "name": "📚教育|小学",
-      "key": "BiliXxue",
-      "type": 3,
-      "api": "csp_BiliAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://nos.netease.com/youdata-netease/public-utilUpload-4VMpA5z1erwuRYyDVSkc9T.gz",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
-    },
-    {
-      "name": "📚教育|初中",
-      "key": "BiliCzong",
-      "type": 3,
-      "api": "csp_BiliAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://file.icve.com.cn/file_doc/281/941/466EB55404EAB8AD6EC37A5F73444B27.aowu",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
-    },
-    {
-      "name": "📚教育|高中",
-      "key": "BiliGzong",
-      "type": 3,
-      "api": "csp_BiliAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://nos.netease.com/youdata-netease/public-utilUpload-vsfDQmE86Ei5LCTWJ2X6Nv.gz",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      }
-    },
-    {
-      "name": "📖听书|富强",
+      "name": "📻┃云听万象",
       "key": "TSty",
       "type": 3,
       "api": "csp_TStyAmns",
@@ -629,7 +470,7 @@
       "changeable": 0
     },
     {
-      "name": "📖听书|文明",
+      "name": "🎙️┃伴读听书",
       "key": "TStzg",
       "type": 3,
       "api": "csp_TStzgAmns",
@@ -638,7 +479,7 @@
       "changeable": 0
     },
     {
-      "name": "🎸酷狗|音乐",
+      "name": "🎸┃酷狗音乐",
       "key": "KuGou",
       "type": 3,
       "api": "csp_KuGouAmns",
@@ -647,167 +488,17 @@
       "changeable": 0,
       "genre": "music"
     },
-    {
-      "name": "📁本地|播放",
-      "key": "MyLocal",
-      "type": 3,
-      "api": "csp_MyLocalAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "name": "📁我的|夸夸",
-      "key": "MyQuark",
-      "type": 3,
-      "api": "csp_MyQuarkAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "name": "📁我的|摆渡",
-      "key": "MyBaidu",
-      "type": 3,
-      "api": "csp_MyBaiduAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "name": "📁我的|优汐",
-      "key": "MyUc",
-      "type": 3,
-      "api": "csp_MyUcAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "name": "📁我的|光雅",
-      "key": "MyGuangya",
-      "type": 3,
-      "api": "csp_MyGuangyaAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "name": "📁我的|阿狸",
-      "key": "Myali",
-      "type": 3,
-      "api": "csp_MyaliAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "name": "📁我的|115",
-      "key": "My115",
-      "type": 3,
-      "api": "csp_My115Amns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "name": "📁我的|123",
-      "key": "My123",
-      "type": 3,
-      "api": "csp_My123Amns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "name": "📁我的|DIY",
-      "key": "Diyre",
-      "type": 3,
-      "api": "csp_DiyreAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "name": "🔍fish|盘搜",
-      "key": "PSfish",
-      "type": 3,
-      "api": "csp_PSfishAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "🔍短剧|盘搜",
-      "key": "PSdju",
-      "type": 3,
-      "api": "csp_PSdjuAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "name": "🛴推送|播放",
-      "key": "push_agent",
-      "type": 3,
-      "api": "csp_PushAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    }
   ],
   "lives": [
-    {
-      "name": "综合直播",
+        {
+      "name": "live",
       "type": 0,
-      "playerType": 2,
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-      "ua": "bingcha/1.1 (mianfeifenxiang) "
-    },
-    {
-      "key": "KafLive",
-      "name": "咖啡体育",
-      "type": 3,
-      "api": "csp_KafLiveAmns",
+      "url": "./TV.txt",
+      "ua": "okhttp/3.15",
+      "epg": "http://skyang.de5.net/epg/diyp",
+      "timeout": 10,
+      "logo": "https://gh-proxy.org/https://raw.githubusercontent.com/sk0yang/IPTV/refs/heads/main/pic/{name}.png",
       "playerType": 2
-    },
-    {
-      "name": "Kimentanm",
-      "type": 0,
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "playerType": 2
-    },
-    {
-      "name": "虎牙一起看",
-      "type": 0,
-      "url": "./lib/huyayqk.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
-    },
-    {
-      "name": "斗鱼一起看",
-      "type": 0,
-      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
-    },
-    {
-      "name": "B站直播",
-      "type": 0,
-      "url": "./lib/bililive.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
-    },
-    {
-      "name": "YY轮播",
-      "type": 0,
-      "url": "./lib/yylunbo.m3u",
-      "playerType": 2,
-      "timeout": 10,
-      "ua": "okHttp/Mod-1.5.0.0"
     }
   ],
   "parses": [
