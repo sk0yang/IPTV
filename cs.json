@@ -69,6 +69,26 @@
       "filterable": 1
     },
     {
+      "key": "FengYe",
+      "name": "🍁┃枫叶视频",
+      "type": 3,
+      "api": "csp_CupFox",
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "ASrqK2y8hBjF6nWBT4VA6nl6pMHBuUkTFU8G1oArN4pFIRBIK3Koep4Mpa+rHr3EEKPvWTsPKevEKAGNJkBG3jYkvcbsm4uMR4SEGFXEVUK5k5GC1r3GrXXjDgc1ezNOEnVyK6ZdKI+xk/a/S3HSnknsxpSteN1SyaZ76LlkHDg8oTcmvsm6VWIJmoLG+EXXFO47gkwl6Z2cGWF6122DYXd9rqv5d1nPkPmMRFOjZmeIQwGet75HMuUQH2SD6tMhrHwqOVYxsZhaEJyp6C5P7lQgMd2fNfTUjdB8IXkeVnT+wuAKOiT09go+UHAmjghG58OMf/v/2ou2/Ojv5RTxZkUiiLZ5tUfJMSW87nNKi1Ak4w3wJ2h0OBR83irMrQjD68TCU0pG+ecPOjclNg7OFlbYxsLd0PPUBDQOAxFhq9+IpEgRp04Fi5Eb9B2exKN8CXuEoyf6ISv5l7FkIamTpm0="
+    },
+    {
+      "key": "PianKu8",
+      "name": "🫡┃片库吧",
+      "type": 3,
+      "api": "csp_PianKu8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://qkys.qukanwh.com"
+    },
+    {
       "key": "BuBu",
       "name": "🧸┃布布资源",
       "type": 3,
@@ -116,6 +136,13 @@
       "api": "csp_App88",
       "ext": "Aa+WBBIIxghmbVYkWqlC4wrZvlocl4rSZS9+QyJDF6RgWFfYSb+nEM6WkMHPVbQFva551Srt16FqFroyjNssEXemH+xC5pCMj/ewgFuLEIbY2mXCVJ1bJxWRJAggNgH1f3mjwrBxlZA0kGgfAd0os29Mdi3RNJilSo5VMkPpcQPMeF8/PTbZHNymotiTwtICNcA5Q0WXsqe/wJ3HoLU4gBYQs1lBmYdxtAuvsnte3SbumQEFlaQnygFscx6EGrwKMFZLVcmu9egAXxygsf5PmyzN/xvOr+b+HslccoKqDbHNU/C6yWFwaHBawww0ckXRtoJ8fFbV7Xv4NiRcEf6ePm/cd06xYiZmjRts11gE0r8f7D0vx/TgigmU3v8nrgNYDokUGl/jDdza3o7BXyQumCWRD45wYbmKJ1LKb0ybRvNt"
     },
+   {
+      "key": "清沅",
+      "name": "❄️┃清沅4K",
+      "api": "csp_AppNox",
+      "type": 3,
+      "ext": "ASjKEhQKe/DZHt0fbLID47aB3aYcWUG5aIPwrmTCgGinaSykux5CZpbz57zl1moRZGFkoEXqk7decpKNU6W/p/6OTfj3JWvZtr89yPZSxNyjJm1Il5upXQT68sXR/0WG392H71MN7Q8NC8xkSOuwAq7EfX2cuHMsiqFeCCugzAiINUiEqvboCFdXiI97C6kqqqiaQIS9d+R1r7krr5vQXWtky7XJNsiK5ACjppyTh68cbONYIcgLp5Kg5woh/wj9xmNT6mFGqF2D3j2RUaLoWYf+K1+ltBiuzZ7THWKwrnpBBig8XUAG3lXNXiFhPILyYWfr+1j/UoInhNITzJJ+SSRc88KmOk5kpch+idGzVMzHIq/bLpRRxE0iV8Qdtc2atKF9QUqPXJLrwv21Dl+nxgPEGOZ+71L+gABeQdvXO7xvyzUnd+rOidPJr1mBsfu9ySbcqHkhL5EIEQpGHwRhG/yN3Y5xj0BU+SdSxnDo+CwMC+g+WCts34c2u8h2tz7G5vuTw8QvDF23kF/BZeD2QaoCBAd3SDG9ObAichfuO1nDa938+Ul+iekNOEPtPFr6k5o+px/JJkE7MKYhekE/2JfmIkbkBHdnewJYckdM37/9EKsnAozbDyFKhfKR06Es52KtuAhGyh1B8uyfsj33qFpreAqGam8kjEHdYA0i832o0BtTU2gS3mf3NoijVH/XNmlJRuNXo9yYxdjuip4Eq4iqIgajM16MGAIJ0rumYhxJ5uJUFDlf55b9iS+DvJ8wotnBvfdINpAaeXPPlVc/1JDp1rIOw0qg2XIRAafLL7kzXnW8djs2dPSQU1+j9LIrfQ6u3k4lqUs9gRMW1JhwC/4iqimnwg0KsVValaplt+fxFHhwCCkS45uLf8BaY+UZtp5ZDffbi3Q0EDAK8F210Bzd5l8W8MokURUSj374Z7y2hAROBAAgZ8qWRrFOmBC+I+LUCm7sV4h7Mwdpe8sDAtxBhxOpBAYyV8eACQsDbnQsBvizlafy16ptRrArViG0uB1VSPqvi8gqcFD1zMl+uRo="
+    },
     {
       "key": "zhiqiu",
       "name": "☘️┃知秋影视",
@@ -156,6 +183,22 @@
       "filterable": 0
     },
     {
+      "key": "Libvio",
+      "name": "📺┃立播4K",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://libviofabu.com",
+          "https://libvio.app",
+          "https://libfabu.com",
+          "https://libviogroup.github.io"
+        ]
+      }
+    },
+    {
       "key": "Wwys",
       "name": "🍙┃糯米影视",
       "type": 3,
@@ -174,6 +217,21 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://www.czzymovie.com"
+    },
+    {
+      "key": "wencai",
+      "name": "✏️┃文才影视",
+      "type": 3,
+      "api": "csp_WenCai",
+      "searchable": 1,
+      "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
+    },
+    {
+      "key": "Guazi",
+      "name": "🍉┃瓜子影视",
+      "type": 3,
+      "api": "csp_Guazi",
+      "searchable": 1
     },
     {
       "key": "TvDy",
@@ -199,6 +257,32 @@
       "type": 3,
       "api": "csp_Duboku",
       "searchable": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "HonHon",
+      "name": "🍅┃红红短剧",
+      "type": 3,
+      "api": "csp_HonHon",
+      "searchable": 1,
+      "quickSearch": 1,
+      "genre": "shortdrama",
+      "filterable": 1,
+      "ext": {
+        "host": "https://short.fishcloud.top",
+        "quality": "1080p",
+        "danmu": false
+      }
+    },
+    {
+      "key": "DJHub",
+      "name": "🎭┃短剧聚合",
+      "type": 3,
+      "api": "csp_DJHub",
+      "searchable": 1,
+      "quickSearch": 1,
+      "genre": "shortdrama",
       "filterable": 1,
       "changeable": 1
     },
