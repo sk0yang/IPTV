@@ -860,7 +860,8 @@
       "script": [
         "document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"
       ]
-    },
+    }
+ ],
 "ijk": [
     {
       "group": "软解码",
