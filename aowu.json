@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/aowu0718.png;md5;438effad8463a53ab6fb2cf446885b54",
+  "spider": "./jar/aowu.png;;md5;644caca4dad20841b97f824fc0a58cb4",
   "logo": "",
   "danmaku": "https://danmu.sk0yang.de5.net",
   "wallpaper": "http://fmys.top/img.php",
@@ -13,7 +13,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/aowu/0718.aowu"
+      "ext": "./lib/aowu/ao.aowu"
     },
     {
       "name": "⛅️┃天天影视",
@@ -175,7 +175,7 @@
       "changeable": 0,
       "ext": {
         "sites": "",
-        "filters": "./lib/aowu/0718.aowu"
+        "filters": "./lib/aowu/ao.aowu"
       }
     },
         {
@@ -186,7 +186,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./lib/aowu/0718.aowu"
+      "ext": "./lib/aowu/ao.aowu"
     },
     {
       "name": "🍠┃番薯动漫",
@@ -494,11 +494,11 @@
         {
       "name": "live",
       "type": 0,
-      "url": "./TV.txt",
+      "url": "https://drive.iptvi.ccwu.cc/iptv/TV.json",
       "ua": "okhttp/3.15",
       "epg": "http://skyang.de5.net/epg/diyp",
       "timeout": 10,
-      "logo": "https://gh-proxy.org/https://raw.githubusercontent.com/sk0yang/IPTV/refs/heads/main/pic/{name}.png",
+      "logo": "https://gitee.com/sk0yang/iptvi/raw/main/pic/{name}.png",
       "playerType": 2
     }
   ],
