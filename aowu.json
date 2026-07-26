@@ -13,7 +13,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/aowu/ao.aowu"
+      "ext": "./lib/aowu/douban.aowu"
     },
     {
       "name": "⛅️┃天天影视",
@@ -175,7 +175,7 @@
       "changeable": 0,
       "ext": {
         "sites": "",
-        "filters": "./lib/aowu/ao.aowu"
+        "filters": "./lib/aowu/guazi.aowu"
       }
     },
         {
@@ -186,7 +186,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "./lib/aowu/ao.aowu"
+      "ext": "./lib/aowu/360.aowu"
     },
     {
       "name": "🍠┃番薯动漫",
