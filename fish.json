@@ -6,11 +6,11 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./TV.txt",
+      "url": "https://drive.iptvi.ccwu.cc/iptv/TV.json",
       "ua": "okhttp/3.15",
       "epg": "http://skyang.de5.net/epg/diyp",
       "timeout": 10,
-      "logo": "https://gh-proxy.org/https://raw.githubusercontent.com/sk0yang/IPTV/refs/heads/main/pic/{name}.png",
+      "logo": "https://gitee.com/sk0yang/iptvi/raw/main/pic/{name}.png",
       "playerType": 2
     }
   ],
@@ -87,6 +87,16 @@
       "ext": "AdYEovlEKsDy77+R58YGahWCxrDZyBxExcQNC2NSeH0n1b5mu6tvh8b4Eh0RCpoPF6eivKdrR1Hsb8X4sSVBS8zF6jkwLW+wze9yh+hSY5iimm4gM9mAtmt0obTi+6Iox/Jp4GCsN4MQyFebMK162SKnILklpXc1UMiJv9gnPOe5aOPUxCftL+x7/UGhBdFYWIegpiHvKeavUtCUkhxtDyC8KqVVPPW0StI5GdmUA3WBbnnrNiKqNc5GBmrffd6pDN+Cf9IIjzNNvos/5KXJmBbe/baAzTLkoafeIoDhO451"
     },
     {
+      "key": "PianKu8",
+      "name": "🫡┃片库4K",
+      "type": 3,
+      "api": "csp_PianKu8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://qkys.qukanwh.com"
+    },
+    {
       "key": "景仪",
       "name": "🎈┃4K影视",
       "type": 3,
@@ -156,6 +166,22 @@
       "filterable": 0
     },
     {
+      "key": "Libvio",
+      "name": "📺┃立播4K",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://libviofabu.com",
+          "https://libvio.app",
+          "https://libfabu.com",
+          "https://libviogroup.github.io"
+        ]
+      }
+    },
+    {
       "key": "Wwys",
       "name": "🍙┃糯米影视",
       "type": 3,
@@ -182,6 +208,14 @@
       "api": "csp_TvDy",
       "searchable": 1,
       "filterable": 1
+    },
+    {
+      "key": "wencai",
+      "name": "✏️┃文才影视",
+      "type": 3,
+      "api": "csp_WenCai",
+      "searchable": 1,
+      "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
     },
     {
       "key": "SaoHuo",
@@ -451,35 +485,42 @@
       "searchable": 1,
       "changeable": 1
     },
-    {
-      "key": "Hema",
-      "name": "🦛┃河马短剧",
+       {
+      "key": "HonHon",
+      "name": "🍅┃红红短剧",
       "type": 3,
-      "api": "csp_Hema",
+      "api": "csp_HonHon",
       "searchable": 1,
       "quickSearch": 1,
       "genre": "shortdrama",
-      "filterable": 1
+      "filterable": 1,
+      "ext": {
+        "host": "https://short.fishcloud.top",
+        "quality": "1080p",
+        "danmu": false
+      }
     },
     {
-      "key": "WeiguanDJ",
-      "name": "🔍┃微观短剧",
+      "key": "DJHub",
+      "name": "🎭┃短剧聚合",
       "type": 3,
-      "api": "csp_WeiguanDJ",
+      "api": "csp_DJHub",
       "searchable": 1,
-      "filterable": 1,
+      "quickSearch": 1,
       "genre": "shortdrama",
+      "filterable": 1,
       "changeable": 1
     },
     {
-      "key": "HHkk",
-      "name": "👁┃好看短剧",
+      "key": "XingHui",
+      "name": "✨┃星绘动漫",
       "type": 3,
-      "api": "csp_HHkk",
+      "api": "csp_XingHui",
       "searchable": 1,
       "quickSearch": 1,
-      "genre": "shortdrama",
-      "filterable": 1
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://max.moyu666666.top/xinghui.php"
     },
     {
       "key": "双星",
@@ -487,6 +528,26 @@
       "type": 3,
       "api": "csp_App88",
       "ext": "AcT3r+Yx4xV/LlB7Os5BUaHRLhSxKWwSAgpq3V+7Eo/lCbgRu4w9WaFSZNmvzIyEv57jMmi3y9UyfY2V3hG6r2ZXOYxjb2VtNGcc31qnT/0V8c5RhLl5yhVOC1di9IjfQ/w+842AXS7IaMxh6737IMQrO04oidEfNkqKs39imu3vmC7Qu0fR1zcCk4JWmurxw4V7qab1Sc/gkANOoml0aHP4VRJJ+vIuIb9yQZNRyOjKUjC0XQmPKJbcexNyZqnRghr5ADZOAN3NMjlQzd914ixCDj5ME+wlkvmbTjL+ECb0EG5LfX/ATTYr8e0EWLfOBzVon/BrbJdZU5m3k4jVSQwEjREWtS1z9bbii6G9ts77nx3P3smsdE9Mu4dEYZaSkekI62B98hP4gLCvw7qw8wZlymehntj/MTc7KupQ9sCKzPMiu8yz4eed4PGdfc6HMg=="
+    },
+    {
+      "key": "Manbo",
+      "name": "🕺┃曼波动漫",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AUzH3yIWvgQkyhQw17uONTsfuN8PupZ/LJdr5C31Y/CWlzSNmarYI5kaJYN5c0p6+Oq0tXuTutQo9MHHytxulL5kmapDuAK5+2NTlpsUgBnr0tOamm69Fwb+jFDQ7VW46qf5EFY+Ea3PHzkpfeObKPM="
+    },
+    {
+      "key": "Gugu",
+      "name": "🐤┃咕咕动漫",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "ARKK6LQnl4dB2QciLugEzZ8QD2WdbeK23tPAre1QOEbbL5BfB8cV39JNfSd2+Xhcqr/z+V5To0krLYHUX7NtRtwYBC44/9ayncZMomdbv4ZCBNOUsBEedUQx7SWf1J0pE0BsLG9QlR8tURwRwx/sqT0="
     },
     {
       "key": "XiFan",
@@ -526,6 +587,15 @@
       "api": "csp_Xb6v",
       "searchable": 1,
       "filterable": 1
+    },
+    {
+      "key": "Buguyy",
+      "name": "🐦┃布谷音乐",
+      "type": 3,
+      "api": "csp_Buguyy",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1
     },
     {
       "key": "ChuXin",
@@ -636,6 +706,28 @@
       "filterable": 1,
       "indexs": 0,
       "ext": "https://m.ting15.com",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "TingShijie",
+      "name": "🌍┃听界有声",
+      "type": 3,
+      "api": "csp_TingShijie",
+      "searchable": 1,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "TingYou",
+      "name": "🎧┃听友有声",
+      "type": 3,
+      "api": "csp_TingYou",
+      "searchable": 1,
+      "indexs": 0,
       "style": {
         "type": "list"
       }
