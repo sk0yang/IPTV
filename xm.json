@@ -1,5 +1,5 @@
 {
-  "spider": "./xiaomi.jar",
+  "spider": "./jar/xiaomi.jar",
   "wallpaper": "http://fmys.top/img.php",
   "logo": "",
   "lives": [
