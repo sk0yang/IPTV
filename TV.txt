@@ -29,6 +29,25 @@ CHC影迷电影,http://live.chinacert.cftest5.cn/cnmg/live/952383261$咪咕
 发现之旅,https://live.chinacert.cftest5.cn/cnmg/live/624878970$咪咕
 中学生,https://live.chinacert.cftest5.cn/cnmg/live/708869532$咪咕
 
+CCTV1,https://ysp.skyang.de5.net/cctv1/playlist.m3u8$ysp
+CCTV2,https://ysp.skyang.de5.net/cctv2/playlist.m3u8$ysp
+CCTV3,https://ysp.skyang.de5.net/cctv3/playlist.m3u8$ysp
+CCTV4,https://ysp.skyang.de5.net/cctv4/playlist.m3u8$ysp
+CCTV5,https://ysp.skyang.de5.net/cctv5/playlist.m3u8$ysp
+CCTV5+,https://ysp.skyang.de5.net/cctv5p/playlist.m3u8$ysp
+CCTV6,https://ysp.skyang.de5.net/cctv6/playlist.m3u8$ysp
+CCTV7,https://ysp.skyang.de5.net/cctv7/playlist.m3u8$ysp
+CCTV8,https://ysp.skyang.de5.net/cctv8/playlist.m3u8$ysp
+CCTV9,https://ysp.skyang.de5.net/cctv9/playlist.m3u8$ysp
+CCTV10,https://ysp.skyang.de5.net/cctv10/playlist.m3u8$ysp
+CCTV11,https://ysp.skyang.de5.net/cctv11/playlist.m3u8$ysp
+CCTV12,https://ysp.skyang.de5.net/cctv12/playlist.m3u8$ysp
+CCTV13,https://ysp.skyang.de5.net/cctv13/playlist.m3u8$ysp
+CCTV14,https://ysp.skyang.de5.net/cctv14/playlist.m3u8$ysp
+CCTV15,https://ysp.skyang.de5.net/cctv15/playlist.m3u8$ysp
+CCTV16,https://ysp.skyang.de5.net/cctv16/playlist.m3u8$ysp
+CCTV17,https://ysp.skyang.de5.net/cctv17/playlist.m3u8$ysp
+
 CCTV1,http://139.214.183.177:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$吉林联通
 CCTV2,http://139.214.183.177:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$吉林联通
 CCTV3,http://139.214.183.177:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$吉林联通
