@@ -54,7 +54,7 @@ CHC家庭影院,http://139.214.183.177:9901/tsfile/live/1016_1.m3u8?key=txiptv&p
 怀旧剧场,http://139.214.183.177:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0$吉林联通
 电视指南,http://139.214.183.177:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0$吉林联通
 央视文化精品,http://139.214.183.177:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0$吉林联通
-地理世界,http://139.214.183.177:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0$吉林联通
+世界地理,http://139.214.183.177:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0$吉林联通
 兵器科技,http://139.214.183.177:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0$吉林联通
 女性时尚,http://139.214.183.177:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0$吉林联通
 风云音乐,http://139.214.183.177:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0$吉林联通
@@ -505,8 +505,8 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8$官方
 CGTN英语,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8$官方
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-CGTN记录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-CGTN记录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 
 CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227350/index.m3u8$cdn
 CGTN纪录,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227367/index.m3u8$cdn
